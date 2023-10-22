@@ -10,29 +10,29 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['50258115623', '👑 Fenix- Creador 👑', true],
-  ['50250101139', 'Fenix- colaborador', true],
-  ['14077384440', 'Owner', true],
-  ['19042018926', 'creador', true],
-  ['50253077417']
+  ['917086726371', '👑 Todoroki- creator', true],
+  ['917086810603', 'Todoroki- Maintaner', true],
+  ['917086726371', 'Owner', true],
+  ['917086726371', 'creator', true],
+  ['917086810603']
 ];
 
-global.suittag = ['50258115623'];
-global.prems = ['50250101139'];
+global.suittag = ['917086726371'];
+global.prems = ['917086810603'];
 
 global.official = [
-["50258115623", 'CREADOR💋', 1],
-["50250101139", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1], 
-["19042018926", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1], 
-["14077384440", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1], 
-["50253077417", 'Colaboradora oficial', 1]]
+["917086726371", 'CREADOR💋', 1],
+["917086810603", 'Maintaner', 1], 
+["917086810603", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹', 1], 
+["917086810603", 'Maintaner', 1], 
+["917086810603", 'Maintaner', 1]]
 
-global.packname = '𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷';
-global.author = '★𝑈𝑁𝐹𝐼𝑁𝐸𝐷-𝑊𝐼𝐿𝑀𝐸𝑅★';
-global.wm = '★𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷𝚝★';
-global.titulowm = '✨ 𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷 ✨';
-global.titulowm2 = `乂 𝑭𝑬𝑵𝑰𝑿-𝑩𝑶𝑻-𝑪𝑫  乂`
-global.igfg = '★𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷★';
+global.packname = 'Tadoroki⛩️';
+global.author = 'TIKU_BOTS';
+global.wm = 'Tadoroki⛩️';
+global.titulowm = 'Tadoroki⛩️';
+global.titulowm2 = `Tadoroki⛩️`
+global.igfg = Tadoroki⛩️';
 global.wait = '*[𖤍] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -55,13 +55,13 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 //* ****************************
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝`;
 global.gt = '★𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷★';
-global.mysticbot = '★𝐹𝐸𝑁𝐼𝑋-𝐵𝑂𝑇-𝐶𝐷★';
-global.md = 'https://github.com/Wilsmac/Fenix-Bot-CD';
-global.mysticbot = 'https://github.com/Wilsmac/Fenix-Bot-CD';
+global.mysticbot = 'Tadoroki⛩️';
+global.md = 'https://github.com/738/awesome-sushi';
+global.mysticbot = 'https://github.com/738/awesome-sushi';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '14077384440';
+global.nomorown = '917086810603';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
